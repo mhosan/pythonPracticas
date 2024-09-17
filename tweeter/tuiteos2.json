@@ -1,0 +1,23 @@
+{
+    "uno" : {
+      "fecha" : "November 13, 2017 at 11:46AM",
+      "usuario" : "@tomasbott",
+      "contenido" : "¿Cuanta plata le cuesta a un tenista argentino jugar en el exterior? \n\nLo cuentan @FedeDelbonis, @renzolii,… https://t.co/36RE7LLin0",
+      "urlTweet" : "http://twitter.com/tomasbott/status/930084385860280321",
+      "urlCoord" : "https://maps.google.com/?q=-34.604315,-58.4426431&z=7"
+    },
+    "dos" : {
+      "fecha" : "November 13, 2017 at 11:46AM",
+      "usuario" : "@camiladelg",
+      "contenido" : "Decir que me iba a levantar a las 9, y recién despertarse! Buenísimo 🙄",
+      "urlTweet" : "http://twitter.com/camiladelg/status/930084388058091520",
+      "urlCoord" : "https://maps.google.com/?q=-34.543932,-55.9436312&z=7"
+    },
+    "tres" : {
+      "fecha" : "November 13, 2017 at 11:46AM",
+      "usuario" : "@debiloto",
+      "contenido" : "@Valetchka buen dia belleza que tengas una linda semana",
+      "urlTweet" : "http://twitter.com/debiloto/status/930084389052088320",
+      "urlCoord" : "https://maps.google.com/?q=-34.604315,-58.4426431&z=7"
+    }
+}
