@@ -49,7 +49,7 @@ try:
     print(f"Número de documentos con nombre 'Supermercado XYZ' después de la eliminación: {count_after}")
     '''
 
-    # Ejemplo: Consultar documentos
+    # Ejemplo: ver documentos
     print(f"Documentos en la colección {collectionActive}:")
     for documento in collection.find().limit(5):
         #print(documento, end='\n\n')
